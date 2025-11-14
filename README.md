@@ -1,53 +1,88 @@
-### Hi there 👋
+### 👋 Hallo, ich bin Vladyslav!
 
-<!--
-**DarkPhantom1337-Lab/DarkPhantom1337-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein engagierter **IT Supporter / Helpdesk Technician** aus Basel (Schweiz) mit starkem technischem Verständnis und Erfahrung in Softwareentwicklung, Hardware-Support und Problemlösung.  
 
-Here are some ideas to get you started:
+Derzeit suche ich eine Position im Bereich **IT Support, 1st Level Support, Helpdesk oder Systemtechnik**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<br /> I'm a Middle Java Developer and I live in Basel, Switzerland. 🇨🇭
+## 🧑‍🔧 Über mich
+- 🏢 Aktuell auf Jobsuche im IT-Support-Bereich  
+- 💻 Erfahrung mit Installation, Fehleranalyse, Hardware/Software-Support  
+- 🔧 Verständnis für Netzwerke, Systeme & Benutzerverwaltung  
+- 🎯 Serviceorientiert, zuverlässig und stressresistent  
+- 🚀 Immer bereit, Neues zu lernen und Zertifikate zu erwerben  
+- 🧠 Background in Java-Entwicklung  
+- 🇨🇭 wohnhaft in Basel – mobil und sofort verfügbar  
 
-BIO
-<br /> 🏢 I am currently looking for a job.
-<br /> ⚙️ I develop applications in Java every day.
-<br /> 💅 I am engaged in the creation of desktop applications, bots for all social networks and add-ons for Minecraft games. 
-<br />     ->  Always ready to take on something new!
-<br /> 🌱Learning all about Java / WebDev.
-<br /> 💬 Write to me about application development / bots / plugins / and everything related to Java.
-<br /> 📫 Reach me: t.me/vlpl1337, instagram.com/vlpl.tech/, dark.phantom.1337.ch@gmail.com
-<br /> 
-<br /> SKILLS <br />
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=java" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="С++" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" data-canonical-src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-<br /> FRAMEWORKS <br />
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" data-canonical-src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
-<br /> TOOLS <br />
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<br /> DATABASES <br />
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqllite" data-canonical-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postr" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<br /> IDE <br />
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="iide" data-canonical-src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eide" data-canonical-src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="pide" data-canonical-src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="pide" data-canonical-src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="pide" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+---
 
+## 🛠 IT Support Skills
 
+### Hardware & Troubleshooting
+- PC-/Laptop-Reparatur  
+- Peripheriegeräte (Drucker, Scanner, POS)  
+- Diagnose & Fehlerbehebung  
+- Komponententausch  
+
+### Software & Betriebssysteme
+- Windows 10/11  
+- Windows Server Grundlagen  
+- macOS  
+- Microsoft 365 / Outlook  
+- Ticketing-Systeme (Jira, Freshdesk, OTRS)  
+- Remote Support (AnyDesk, TeamViewer)
+
+### Netzwerke
+- TCP/IP, DNS, DHCP  
+- Router-/Switch-Grundlagen  
+- kleine Netzwerkdiagnosen  
+
+### IT-Administration
+- Active Directory Grundlagen  
+- Benutzerverwaltung  
+- Rechte & Gruppen  
+- Passwort-Reset / Onboarding / Offboarding  
+
+### Bonus: Developer Background
+- Java SE / Spring  
+- REST API Grundlagen  
+- SQL  
+- Git  
+- HTML/CSS Basics  
+
+---
+
+## ⚙️ Tech Stack (Badges)
+
+### Betriebssysteme
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
+### Support Tools
+<img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
+<img src="https://img.shields.io/badge/AnyDesk-E10000?style=for-the-badge&logo=anydesk&logoColor=white"/>
+
+### Netzwerke
+<img src="https://img.shields.io/badge/TCP%2FIP-004F9F?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS%2FDHCP-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
+
+### Dev Skills (Bonus)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+---
+
+## 📫 Kontakt
+- 📩 E-Mail: **me@vlpl.ch**  
+- 💬 Telegram: **t.me/vlpl_ch**  
+- 📸 Instagram: **instagram.com/vlpl.ch**  
+- 🌐 Portfolio: **https://vlpl.ch**
+
+---
+
+## 💡 Fun Fact
+Ich liebe es, technische Probleme zu lösen – egal ob PC streikt, Netzwerk spinnt oder Software nicht läuft.  
+IT Support ist für mich wie Detektivarbeit 🔍💻
 
