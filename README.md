@@ -1,88 +1,64 @@
 ### 👋 Hallo, ich bin Vladyslav!
 
-Ich bin ein engagierter **IT Supporter / Helpdesk Technician** aus Basel (Schweiz) mit starkem technischem Verständnis und Erfahrung in Softwareentwicklung, Hardware-Support und Problemlösung.  
-
-Derzeit suche ich eine Position im Bereich **IT Support, 1st Level Support, Helpdesk oder Systemtechnik**.
+Ich bin ein **Full Stack Developer** aus Basel (Schweiz) mit Fokus auf moderne Web-Anwendungen, AI-Automatisierung und Business-Plattformen.
 
 ---
 
-## 🧑‍🔧 Über mich
-- 🏢 Aktuell auf Jobsuche im IT-Support-Bereich  
-- 💻 Erfahrung mit Installation, Fehleranalyse, Hardware/Software-Support  
-- 🔧 Verständnis für Netzwerke, Systeme & Benutzerverwaltung  
-- 🎯 Serviceorientiert, zuverlässig und stressresistent  
-- 🚀 Immer bereit, Neues zu lernen und Zertifikate zu erwerben  
-- 🧠 Background in Java-Entwicklung  
-- 🇨🇭 wohnhaft in Basel – mobil und sofort verfügbar  
+## 🧑‍💻 Über mich
+- 🚀 Gründer von **vprint.ch** – einer SaaS-Plattform für Print-Shops (Storefronts, Admin-Dashboards, White-Label, Payment-Integration)
+- 💻 8+ Jahre Erfahrung in der Softwareentwicklung
+- 🤖 Spezialisiert auf AI-Automation, Chatbots, CRM/ERP-Systeme
+- 🇨🇭 wohnhaft in Basel – mobil und sofort verfügbar
+- 🎯 Serviceorientiert, zuverlässig, lösungsorientiert
 
 ---
 
-## 🛠 IT Support Skills
+## 🛠 Tech Stack
 
-### Hardware & Troubleshooting
-- PC-/Laptop-Reparatur  
-- Peripheriegeräte (Drucker, Scanner, POS)  
-- Diagnose & Fehlerbehebung  
-- Komponententausch  
+### Frontend
+- React, Next.js, TypeScript, HTML/CSS
 
-### Software & Betriebssysteme
-- Windows 10/11  
-- Windows Server Grundlagen  
-- macOS  
-- Microsoft 365 / Outlook  
-- Ticketing-Systeme (Jira, Freshdesk, OTRS)  
-- Remote Support (AnyDesk, TeamViewer)
+### Backend
+- Node.js, REST APIs, Java SE / Spring
 
-### Netzwerke
-- TCP/IP, DNS, DHCP  
-- Router-/Switch-Grundlagen  
-- kleine Netzwerkdiagnosen  
+### Datenbanken
+- PostgreSQL, MySQL, SQL
 
-### IT-Administration
-- Active Directory Grundlagen  
-- Benutzerverwaltung  
-- Rechte & Gruppen  
-- Passwort-Reset / Onboarding / Offboarding  
+### AI & Automation
+- Claude AI, OpenAI API, n8n
 
-### Bonus: Developer Background
-- Java SE / Spring  
-- REST API Grundlagen  
-- SQL  
-- Git  
-- HTML/CSS Basics  
+### Payments & Integrationen
+- Stripe, Payrexx
+
+### Tools
+- Git, Ticketing-Systeme (Jira, Freshdesk, OTRS)
 
 ---
 
 ## ⚙️ Tech Stack (Badges)
 
-### Betriebssysteme
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-### Support Tools
-<img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
-<img src="https://img.shields.io/badge/AnyDesk-E10000?style=for-the-badge&logo=anydesk&logoColor=white"/>
-
-### Netzwerke
-<img src="https://img.shields.io/badge/TCP%2FIP-004F9F?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/DNS%2FDHCP-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
-
-### Dev Skills (Bonus)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 ---
 
 ## 📫 Kontakt
-- 📩 E-Mail: **me@vlpl.ch**  
-- 💬 Telegram: **t.me/vlpl_ch**  
-- 📸 Instagram: **instagram.com/vlpl.ch**  
+- 📩 E-Mail: **me@vlpl.ch**
+- 💬 Telegram: **t.me/vlpl_ch**
+- 📸 Instagram: **instagram.com/vlpl.ch**
 - 🌐 Portfolio: **https://vlpl.ch**
 
 ---
 
 ## 💡 Fun Fact
-Ich liebe es, technische Probleme zu lösen – egal ob PC streikt, Netzwerk spinnt oder Software nicht läuft.  
-IT Support ist für mich wie Detektivarbeit 🔍💻
-
+Ich liebe es, komplexe Probleme in einfache, funktionierende Lösungen zu verwandeln – vom ersten Konzept bis zum Deployment 🚀
